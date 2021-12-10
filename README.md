@@ -9,7 +9,7 @@ This project is used for testing and learning purpose only.
 ```
     $ npm i && npm run start:hapi # Server will start at localhost:3000
 ```
-### Start the hookdeck server which is forwarded to our localhost 3000
+#### Start the hookdeck server which is forwarded to our localhost 3000
 ```
 Commands:
     $ hookdeck login # Login to your hookdeck account, skip this if you have already logged in.
@@ -23,7 +23,7 @@ Output:
     🔌 Webhook URL: https://events.hookdeck.com/e/src_xxxxxxxxxxxx
 ```
 
-### Configure github webhook with the Webhook URL: https://www.youtube.com/watch?v=C_b773aUjpc
+#### Configure github webhook with the Webhook URL: https://www.youtube.com/watch?v=C_b773aUjpc
 
 @ngcvm
 
